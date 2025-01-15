@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yayahnaydz
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning python programming languagee
+- 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
